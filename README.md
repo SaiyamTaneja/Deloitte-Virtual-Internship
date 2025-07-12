@@ -1,5 +1,6 @@
 # Deloitte-Virtual-Internship
 Deloitte Australia Data Analytics Job Simulation on Forage - July 2025 Completed a Deloitte job simulation involving data analysis and forensic technology  Created a data dashboard using Tableau  Used Excel to classify data and draw business conclusions
+
 <img width="1612" height="845" alt="image" src="https://github.com/user-attachments/assets/1e0617d2-0fd2-48f6-88fd-2fffe4477cd6" />
 
 📊 Data Analysis
