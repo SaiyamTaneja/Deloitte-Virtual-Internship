@@ -3,6 +3,7 @@ Deloitte Australia Data Analytics Job Simulation on Forage - July 2025 Completed
 <img width="1612" height="845" alt="image" src="https://github.com/user-attachments/assets/1e0617d2-0fd2-48f6-88fd-2fffe4477cd6" />
 
 📊 Data Analysis
+
 Daikibo's tech team has converted all telemetry data collected from the 4 factories of the company:
 
 Daikibo Factory Meiyo (Tokyo, Japan)
@@ -16,6 +17,7 @@ What are the machines that broke most often in that location?
 By completing this task, I learned how to use the famous Analytics tool Tableau to build an interactive dashboard that helps the Daikibo's tech team to answer their questions.
 
 👨‍💻 Excel 
+
 The Forensic Tech team has built an algorithm to quantify “level of gender pay equality” for most job roles within the company, in all company locations. Our Forensics lead thinks it would be a great idea for you to finish the job.
 We have processed all data on employee compensation and generated an Excel file (Equality Table.xlsx, available in the Resources) containing 3 columns:
 
